@@ -13,9 +13,12 @@ de ses versets.
 Je ne l'ai pas terminée car mon ami, entre temps, a trouvé une autre application. Mais ce petit projet m'a permit de voir le langage
 dart et le fonctionnement de flutter.
 
-Flutter permet grâce à ses Api de mettre en place des functionnalités assez rapidement. Comme une base de données, ou le téléchargement de contenus externes. Sa construction de contenus visuels est assez simple à comprendre. Mais a pour défaut l'enchevêtrement d'objets personnalisé qui peuvent vite dvenir illisible si le contenu est complexe. On une solution qui m'est apparue et que j'ai utilisée pour la navigation. A été de passer par une function, ce qui permet de complétement séparer le contenu du conteneur, et ainsi d'améliorer la lisibilité du code.
-Un autre problème est l'évolution du
+## Avis et problèmes:
 
+Flutter permet grâce à ses Api de mettre en place des functionnalités assez rapidement. Comme une base de données, ou le téléchargement de contenus externes. Sa construction de contenus visuels est assez simple à comprendre. Mais a pour défaut l'enchevêtrement d'objets personnalisé qui peuvent vite devenir illisibles si le contenu est complexe. On une solution qui m'est apparue et que j'ai utilisée pour la navigation. A été de passer par une function, ce qui permet de complétement séparer le contenu du conteneur, et ainsi d'améliorer la lisibilité du code.
+
+Autre problème est l'évolution du routage. Il n'y a qu'une seule explication dans la documentation, au moment de l'écriture de ce texte. 
+Et l'implementation de l'exemple n'est pas terrible sur certain points.
 
 
 
