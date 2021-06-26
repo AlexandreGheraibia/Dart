@@ -20,7 +20,7 @@ Flutter grâce à ses Apis permet de mettre en place des functionnalités assez 
 
 Sa construction de contenus visuels est assez simple à comprendre. Mais a pour défaut l'enchevêtrement d'objets personnalisé qui peuvent vite devenir illisibles si le contenu est complexe. On une solution qui m'est apparue et que j'ai utilisée pour la navigation. A été de passer par une function, ce qui permet de complétement séparer le contenu du conteneur, et ainsi d'améliorer la lisibilité du code.
 
-Autre problème est l'évolution du routage. Il n'y a qu'une seule explication dans la documentation, au moment de l'écriture de ce document. Et l'implementation de l'exemple n'est pas terrible sur certain points. C'est assez déconcertant de mettre des locations
+un autre problème est l'évolution du routage. Il n'y a qu'une seule explication dans la documentation, au moment de l'écriture de ce document. Et l'implementation de l'exemple n'est pas terrible sur certain points. C'est assez déconcertant de mettre des locations
 dans une application. Elles ne sont visibles que sur le navigateur, quand j'ai commencé à mettre en place la partie route. Et que je lancer mon application sur l'émulateur. Je ne me suis pas rendu compte que les localisations n'étaient pas correctes.
 Pas d'erreurs, l'application tourne.
 
