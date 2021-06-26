@@ -1,6 +1,6 @@
 # Application android avec flutter
 
-##contexte:
+## Contexte:
 
 
 j'avais pas d'idée sur quel genre d'application à produire.
