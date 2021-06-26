@@ -24,4 +24,10 @@ un autre problème est l'évolution du routage. Il n'y a qu'une seule explicatio
 dans une application. Elles ne sont visibles que sur le navigateur, quand j'ai commencé à mettre en place la partie route. Et que je lancer mon application sur l'émulateur. Je ne me suis pas rendu compte que les localisations n'étaient pas correctes.
 Pas d'erreurs, l'application tourne.
 
+## Conclusion :
+
+Flutter est un framework qui simplifie le processus de production d'une application. Par contre, je pense qu'une interface drag and 
+drop serait plus appropriée pour la construction des vues. Cela permettrait une construction plus instuitive et plus rapide.
+Et de réduire la production de code. Il existe peut-être un plug-in pour android studio, je n'ai pas vérifier.
+
 
