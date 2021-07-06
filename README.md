@@ -16,7 +16,7 @@ dart et le fonctionnement de flutter.
 
 ## Avis et problèmes :
 
-Flutter grâce à ses Apis permet de mettre en place des functionnalités assez rapidement. Comme une base de données, ou le téléchargement de contenus externes. Les questions qui se posent, son laquelle choisir ? Est-elle compatible avec toutes les plateformes ?
+Flutter grâce à ses Apis permet de mettre en place des functionnalités assez rapidement. Comme une base de données, ou le téléchargement de contenus externes. Les questions qui se posent sont: laquelle choisir ? Est-elle compatible avec toutes les plateformes ?
 
 Sa construction de contenus visuels est assez simple à comprendre. Mais a pour défaut l'enchevêtrement d'objets personnalisé qui peuvent vite devenir illisibles si le contenu est complexe. On une solution qui m'est apparue et que j'ai utilisée pour la navigation. A été de passer par une function, ce qui permet de complétement séparer le contenu du conteneur, et ainsi d'améliorer la lisibilité du code.
 
