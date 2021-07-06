@@ -14,18 +14,18 @@ de ses versets. Je ne l'ai pas terminée car mon ami, entre temps a trouvé une 
 ## Avis et problèmes :
 
 Flutter grâce à ses Apis permet de mettre en place des fonctionnalités assez rapidement. Comme une base de données, ou le téléchargement de contenus externes. Les questions que l'on peut se posent sont : 
-quelle Api choisir, Est-elle compatible avec toutes les plateformes ?
+Quelle Api choisir, Est-elle compatible avec toutes les plateformes ?
 
 Sa construction de contenus visuels est assez simple à comprendre. Mais a pour défaut l'enchevêtrement d'objets personnalisé qui peuvent vite devenir illisibles si le contenu est complexe. On une solution qui m'est apparue et que j'ai utilisée pour la navigation. A été de passer par une function, ce qui permet de complétement séparer le contenu du conteneur, et ainsi d'améliorer la lisibilité du code.
 
-un autre problème est l'évolution du routage. Il n'y a qu'une seule explication dans la documentation, au moment de l'écriture de ce document. Et l'implementation de l'exemple n'est pas terrible sur certain points. C'est assez déconcertant de mettre des locations
-dans une application. Elles ne sont visibles que sur le navigateur, quand j'ai commencé à mettre en place la partie route. Et que je lancer mon application sur l'émulateur. Je ne me suis pas rendu compte que les localisations n'étaient pas correctes.
-Pas d'erreurs, l'application tourne.
+Un autre problème est l'évolution du routage. Il n'y a qu'une seule explication dans la documentation, au moment de l'écriture de ce document. Et l'implémentation de l'exemple n'est pas terrible sur certains points. C'est assez déconcertant de mettre des locations
+dans une application pour smartphone. Elles ne sont visibles que sur les navigateurs web. 
+
+En lancant mes premiers tests sur l'émulateur fourni par Android Studio. Je ne me suis pas du tout rendu compte que mes localisations n'étaient pas correctes. Pas d'erreurs, l'application tourne correctement. Puis je suis passé sur mon navigateur préféré. Et là horreur! Oh my God! ( cri d'une femme appeuré en fond), What's happenning ? Les chemins ne s'affichent pas.
 
 ## Conclusion :
 
 Flutter est un framework qui simplifie le processus de production d'une application. Par contre, je pense qu'une interface drag and 
-drop serait plus appropriée pour la construction des vues. Cela permettrait une construction plus instuitive et plus rapide.
-Et de réduire la production de code. Il existe peut-être déjà un plug-in pour Android studio, j'avoue ne pas avoir vérifié.
+drop aurait été plus appropriée pour la construction des vues. Cela permettrait une construction plus instuitive et plus rapide et réduirait la production de code. Il existe peut-être déjà un plug-in pour Android studio, j'avoue ne pas avoir vérifié.
 
 
