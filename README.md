@@ -26,6 +26,6 @@ Pas d'erreurs, l'application tourne.
 
 Flutter est un framework qui simplifie le processus de production d'une application. Par contre, je pense qu'une interface drag and 
 drop serait plus appropriée pour la construction des vues. Cela permettrait une construction plus instuitive et plus rapide.
-Et de réduire la production de code. Il existe peut-être déjà un plug-in pour android studio, je n'ai pas vérifier.
+Et de réduire la production de code. Il existe peut-être déjà un plug-in pour Android studio, j'avoue ne pas avoir vérifié.
 
 
