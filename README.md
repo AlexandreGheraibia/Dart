@@ -1,13 +1,10 @@
-# Application android avec flutter
+# Application Android avec Flutter
 
 ## Contexte :
 
 
-je n'avais pas d'idée sur quel genre d'application produire.
-
-Donc j'ai commencé un projet en suivant un tutoriel sur internet. Puis un ami m'a dit qu'il avait un problème sur son application d'appentissage du coran.
-
-j'ai donc fait une application qui permet d'afficher la liste des sourates. Dont chaque élément permet d'accéder à la liste
+je n'avais pas d'idée sur quoi produire. J'ai donc commencé un projet en suivant des tutos sur le net. D'abord sur le langage Dart, 
+puis sur Flutter. Ensuite un ami m'a dit qu'il avait un problème sur son application d'appentissage du Coran. j'ai donc pris pour fil consucteur de créer une application qui permet d'afficher la liste des sourates. Dont chaque élément permet d'accéder à la liste
 de ses versets. Je ne l'ai pas terminée car mon ami, entre temps a trouvé une autre application. Mais ce petit projet m'a permit de voir le langage Dart et le fonctionnement de Flutter.
 
 
